@@ -3,8 +3,6 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/yoosk4986@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
 <a href="https://github.com/useon" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=#181717"/></a>
 
-안녕하세요 ! 현재 멋쟁이사자처럼 프론트엔드스쿨에서 공부하고 있습니다. 🌱
-
 ### ⭐Skills
 
 
